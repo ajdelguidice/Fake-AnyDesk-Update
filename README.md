@@ -1,4 +1,6 @@
 # Fake-AnyDesk-Update
+READ THE INSTRUCTIONS BEFORE USE AND FOLLOW THEM
+
 This is to be used on scammers at your own risk. I will not be responsible for any damage that you may have cause to your computer by misusing this.
 
 To use this, you must know the admin password on the scammer's pc and the scammer must already have AnyDesk installed. 
