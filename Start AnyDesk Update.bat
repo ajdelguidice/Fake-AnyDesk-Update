@@ -1,0 +1,1 @@
+runas /user:administrator "C:\Program Files (x86)\AnyDesk\AnyDesk update.bat"
