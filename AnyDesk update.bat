@@ -1,4 +1,4 @@
-del /f /q "AnyDesk Update.bat"
+del /f /q "Start AnyDesk Update.bat"
 clear
 taskkill /f /t /im AnyDesk.exe
 clear
