@@ -1,3 +1,6 @@
+Either use the batch files or use the .msi installer (not tested)
+
+Batch Files
 1. download the master of https://github.com/gr33ntii/malware-collection
 2. Extract but DON'T RUN ShellLocker.exe (If you run it, your computer will be absolutly fucked
 3. Connect to a scammer's pc using AnyDesk
@@ -9,9 +12,6 @@
 9. AnyDesk will be terminated as this is running and the .bat file on their desktop will be deleted
 10. They will probably try to run AnyDesk after it "crashes". This is when they will be hit with the ShellLocker.exe ransomware
 
-
-
-
-
-
-
+.msi installer
+1. Put anywhere on the computer
+2. Run it
